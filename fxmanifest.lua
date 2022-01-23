@@ -6,6 +6,8 @@ author 'Sizzle#0007'
 description 'Patched Weapon Multipliers'
 version '1.1'
 
+server_script 'server.lua'
+
 files {
 	'data/weapons.meta',
 	'data/weaponcomponents.meta',
